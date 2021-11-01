@@ -1,6 +1,6 @@
 # IRRR
 
-This repository contains the authors' implementation of the models in the EMNLP 2021 paper "[Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/pdf/2010.12527.pdf)".
+This repository contains the authors' implementation of the Iterative Retriever, Reader, and Reranker (IRRR) model in the EMNLP 2021 paper "[Answering Open-Domain Questions of Varying Reasoning Steps from Text](https://arxiv.org/pdf/2010.12527.pdf)".
 
 ![IRRR pipeline](fig/irrr_arch.png)
 
