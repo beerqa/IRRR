@@ -50,7 +50,7 @@ def process_line(line):
             'title': data['title'],
             'title_unescape': html.unescape(data['title']),
             'doc_text': ''.join(data['text']),
-            'original_json': json.dumps(data)
+            'original_json': json.dumps(data),
             'docid': docid,
             'doctype': 'doc',
             }
